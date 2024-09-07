@@ -1,0 +1,10 @@
+ME:50
+Prashant:100
+Rajeev:200
+Kushal:400
+Aalok:2000
+Potu:22000
+Kalu:800
+Riwaz:4400
+Pink:32000
+Name:21000
